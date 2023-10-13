@@ -16,7 +16,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "@babel/code-frame": "workspace:^",
-    "@babel/core": "workspace:^",
+    "@babel/core": "7.0.0",
     "@babel/helper-fixtures": "workspace:^",
     "@jridgewell/trace-mapping": "^0.3.4",
     "babel-check-duplicated-nodes": "^1.0.0",
