@@ -20,7 +20,7 @@
     "@babel/generator": "workspace:^",
     "@babel/helper-environment-visitor": "workspace:^",
     "@babel/helper-function-name": "workspace:^",
-    "@babel/helper-hoist-variables": "workspace:^",
+    "@babel/helper-hoist-variables": "7.0.0",
     "@babel/helper-split-export-declaration": "workspace:^",
     "@babel/parser": "workspace:^",
     "@babel/types": "workspace:^",
