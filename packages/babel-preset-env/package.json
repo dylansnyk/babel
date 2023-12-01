@@ -84,7 +84,7 @@
     "@babel/plugin-transform-unicode-escapes": "workspace:^",
     "@babel/plugin-transform-unicode-regex": "workspace:^",
     "@babel/preset-modules": "^0.1.5",
-    "@babel/types": "workspace:^",
+    "@babel/types": "7.0.0",
     "babel-plugin-polyfill-corejs2": "^0.3.0",
     "babel-plugin-polyfill-corejs3": "^0.5.0",
     "babel-plugin-polyfill-regenerator": "^0.3.0",
