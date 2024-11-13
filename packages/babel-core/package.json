@@ -53,7 +53,7 @@
     "@babel/generator": "workspace:^",
     "@babel/helper-compilation-targets": "workspace:^",
     "@babel/helper-module-transforms": "condition:BABEL_8_BREAKING ? : workspace:^7.17.7",
-    "@babel/helpers": "workspace:^",
+    "@babel/helpers": "7.0.0",
     "@babel/parser": "workspace:^",
     "@babel/template": "workspace:^",
     "@babel/traverse": "workspace:^",
