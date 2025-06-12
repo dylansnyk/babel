@@ -20,11 +20,11 @@
   "dependencies": {
     "@babel/helper-annotate-as-pure": "workspace:^",
     "@babel/helper-environment-visitor": "workspace:^",
-    "@babel/helper-function-name": "workspace:^",
+    "@babel/helper-function-name": "7.0.0",
     "@babel/helper-member-expression-to-functions": "workspace:^",
     "@babel/helper-optimise-call-expression": "workspace:^",
     "@babel/helper-replace-supers": "workspace:^",
-    "@babel/helper-split-export-declaration": "workspace:^"
+    "@babel/helper-split-export-declaration": "7.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0"
